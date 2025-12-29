@@ -9,14 +9,14 @@
 | 24/12/2025 | Study Google DeepMind Course Lecture 3                 | `01_Foundations/lecture_3.md`                                |   🟢   |                                             |
 | 25/12/2025 | Study Google DeepMind Course Lecture 3                 | `01_Foundations/lecture_3.md`                                |   🟢   |                                             |
 | 26/12/2025 | Mutual Information: Full Series                        |                                                              |   🟡   | Get big-picture intuition                   |
-| 27/12/2025 | Study Google DeepMind Course Lecture 4 & 5             | `01_Foundations/lecture_4.md`, `01_Foundations/lecture_5.md` |   🟡   |                                             |
+| 27/12/2025 | Study Google DeepMind Course Lecture 4 & 5             | `01_Foundations/lecture_4.md`, `01_Foundations/lecture_5.md` |   🟢   |                                             |
 | 28/12/2025 | Study Google DeepMind Course Lecture 6 & 7             | `01_Foundations/lecture_6.md`, `01_Foundations/lecture_7.md` |   🟡   |                                             |
 | 29/12/2025 | Study Google DeepMind Course Lecture 8 & 9             | `01_Foundations/lecture_8.md`, `01_Foundations/lecture_9.md` |   🟡   |                                             |
 | 30/12/2025 | Study Google DeepMind Course Lecture 10 + Paper: EMAC+ | `01_Foundations/lecture_10.md`, `03_Papers/EMAC+.md`         |   🟡   |                                             |
 | 31/12/2025 | Paper: ReAct & Reflexion                                | `03_Papers/ReAct.md`, `03_Papers/Reflexion.md`                |   🟡   |                                             |
 | 04/01/2026 | Paper: PaLM-E & ReKep                                  | `03_Papers/PaLM-E.md`, `03_Papers/ReKep.md`                  |   🟡   |                                             |
-| 05/01/2026 | Hugging Face Unit 1                                    | `02_Lab_Bench/unit_1.ipynb`                                  |   🟡   |                                             |
-| 06/01/2026 | Hugging Face Unit 2                                    | `02_Lab_Bench/unit_2.ipynb`                                  |   🟡   |                                             |
+| 05/01/2026 | Hugging Face Unit 1                                    | `02_Lab_Bench/unit_1.ipynb`                                  |   🟢   |                                             |
+| 06/01/2026 | Hugging Face Unit 2                                    | `02_Lab_Bench/unit_2.ipynb`                                  |   🟢   |                                             |
 | 07/01/2026 | Hugging Face Unit 3                                    | `02_Lab_Bench/unit_3.ipynb`                                  |   🟡   |                                             |
 | 08/01/2026 | Hugging Face Unit 4                                    | `02_Lab_Bench/unit_4.ipynb`                                  |   🟡   |                                             |
 | 09/01/2026 | Hugging Face Unit 5                                    | `02_Lab_Bench/unit_5.ipynb`                                  |   🟡   |                                             |
